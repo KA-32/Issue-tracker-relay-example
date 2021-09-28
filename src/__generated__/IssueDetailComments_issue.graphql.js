@@ -83,7 +83,7 @@ return {
       "fragmentPathInResult": [
         "node"
       ],
-      "operation": require('./IssueDetailCommentsQuery.graphql.js'),
+      "operation": require('./IssueDetailCommentsQuery.graphql'),
       "identifierField": "id"
     }
   },

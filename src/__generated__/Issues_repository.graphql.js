@@ -77,7 +77,7 @@ return {
       "fragmentPathInResult": [
         "node"
       ],
-      "operation": require('./IssuesPaginationQuery.graphql.js'),
+      "operation": require('./IssuesPaginationQuery.graphql'),
       "identifierField": "id"
     }
   },
